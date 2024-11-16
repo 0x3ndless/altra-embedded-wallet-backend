@@ -1,4 +1,4 @@
-const email_template = `<!DOCTYPE html>
+const email_template_secret = `<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">

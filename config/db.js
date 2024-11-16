@@ -12,4 +12,4 @@ connectDBWallet.once('open', () => {
 });
 
 
-module.exports = { connectDBWallet, connectDBPlatform };
+module.exports = { connectDBWallet };
