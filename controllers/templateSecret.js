@@ -68,7 +68,7 @@ const email_template_secret = `<!DOCTYPE html>
         <h2 style="font-size: 24px; margin: 10px 0;">{{otp}}</h2>
     </div>
     <div class="expiration">
-        <p style="font-size: 14px;">This code will expire in 2 minutes. If you did not request this code, please ignore this email.</p>
+        <p style="font-size: 14px;">This code will expire in 2 minutes.</p>
     </div>
 </div>
 </body>
